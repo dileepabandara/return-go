@@ -19,7 +19,7 @@ This **return-go** repository includes the Go beginner level lessons that I ha
 - Download or clone the repository
 - Move the project to the selected directory
 - Open it with a code editor
-- Rename if needed
+- Run flutter clean and pub get commands
 - Try on
 
 ## ❤️ Thanks
